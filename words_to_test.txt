@@ -1,108 +1,11 @@
 #This file contains the words for the test harness to use.
 #The evaluator can replace these words with their own list.
 #Please add one word or phrase per line. Lines starting with # are ignored.
-airbus
-a320neo
-a321neo
-b737
-baggage belt
-boarding queue
-bulkhead seat
-cabin baggage
-cabin pressure
-cargo hold
-carpet cleaning
-chocks away
-cockpit crew
-combi aircraft
-compliance audit
-crew base
-crew briefing
-crew roster
-crew scheduling
-customer service
-delay report
-departure hall
-departure board
-domestic terminal
-domestic sector
-door arming
-door disarming
-eco mode
-emergency exit
-engine start
-engine shutdown
-etd
-eta
-fast track
-final call
-first aid kit
-first flight
-flaps down
-flaps up
-fleet size
-flight cancellation
-flight dispatcher
-flight duty
-flight hours
-flight ops
-flight schedule
-flight status
-flight time
-fuel uplift
-gate hold
-gate number
-ground handling
-ground support
-ground power
-headcount
-indigo crew
-indigo fleet
-indigo lean clean flying machine
-inflight announcement
-inflight magazine
-inflight service
-intercom
-lavatory service
-line maintenance
-line up clearance
-load control
-load trim
-loadsheet preparation
-long sector
-maintenance hangar
-minimum turn time
-no-show
-on-time departure
-operations control
-operations center
-overhead locker
-pax load
-pax count
-pax bus
-pax boarding
-pax deboarding
-pax service
-performance check
-pushback tug
-quick turnaround
-ramp safety
-ramp service
-refuelling bay
-registration number
-reporting time
-safety demo
-seat assignment
-seat belt
-short sector
-slf (seat load factor)
-slot delay
-stand number
-stand position
-step ladder
-taxi time
-technical snag
-terminal gate
-transit passenger
-trip sheet
-
+airplane 
+winglet 
+runway   
+cabin  
+gate  
+crew  
+seat   
+engine  

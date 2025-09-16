@@ -15,7 +15,8 @@ WHITELIST = {
     "atc", "jet", "suv", "yaw", "fin", "rib", "spar", "lift", "drag",
     "fbo", "notam", "tcas", "gpws", "aog", "mro", "dgca", "squawk",
     "jetway", "chocks", "deadhead", "pan pan", "slot", "flare", "stall", "baggage","galley","hub","hypoxia",
-    "logbook","mayday","notam","pilot","pushback","rvsm","squawk","vacate","waypoint","windshear alert","yield"
+    "logbook","mayday","notam","pilot","pushback","rvsm","squawk","vacate","waypoint","windshear alert","yield","baggage",
+    "wing","seat","wing"
 
 
 }

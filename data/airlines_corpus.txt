@@ -2,8 +2,6 @@ a chamber
 a check
 a series of small nibbles or bitesnegative stagger
 a variable resistor any change in the fluid level sends selectivity
-a320neo
-a321neo
 aaaerboarmembeaai
 aaansail
 aaboaralshapart
@@ -5253,7 +5251,6 @@ azulinhas
 azuorderthree
 azztransport
 azzurrair
-b737
 ba
 baa
 baacoparliament
@@ -23898,7 +23895,6 @@ no procedure turn nopt
 no references with which to establish orientationsonic soldering
 no smoking sign
 no transgression zone ntz
-no-show
 noa
 noaairline
 noachennaairport
@@ -24739,7 +24735,6 @@ on course
 on the ils glideslopeholdshort point
 on time
 on time performance
-on-time departure
 onaffectinthe
 onair
 onaircrafmighbdirected
