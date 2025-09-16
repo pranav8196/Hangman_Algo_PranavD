@@ -13,7 +13,7 @@ Corpus Building (corpus_builder.py): A "smart" web scraper fetches raw text from
 
 Dictionary Usage: To ensure the corpus is rich in aviation-specific terminology, an external aviation dictionary was also leveraged.
 
-Source: Jeppesen Aviation Dictionary
+Source: [Jeppesen Aviation Dictionary]("https://clearskywords.files.wordpress.com/2014/12/aviationdictionary.pdf) 
 
 Citation: Gomez, J. (2008). The Aviation Dictionary for Pilots and Aviation Maintenance Technicians. Jeppesen Sanderson.
 
