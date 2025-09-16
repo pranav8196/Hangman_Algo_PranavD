@@ -1,4 +1,4 @@
-Hangman Solving Algorithm for IndiGo
+# Hangman Solving Algorithm for IndiGo
 This repository contains an intelligent Hangman solver developed for the Artificial Intelligence & Machine Learning role assessment at IndiGo. The algorithm is designed to guess words from the Airlines domain with high accuracy and efficiency, operating within a six-guess limit.
 
 The project is structured as a self-contained web service, allowing it to be evaluated programmatically as per the assessment guidelines.
@@ -28,7 +28,7 @@ Tier 2: General English Corpus Fallback: If the specialized corpus yields no pos
 
 Tier 3: Letter Frequency Safety Net: In the rare case that a word is not in either dictionary, the algorithm has a final safety net. It will guess the most common letter in the English language that has not yet been tried, ensuring the program never fails to make a guess.
 
-Running & Testing Instructions
+# Running & Testing Instructions
 This project is designed to run with minimal setup from a system terminal.
 
 1. Setup
@@ -39,7 +39,7 @@ cd Hangman_Game_Model
 
 Next, create and activate a Python virtual environment.
 
-# Create the virtual environment
+Create the virtual environment
 python -m venv venv
 
 Activate the environment based on your operating system and terminal:
