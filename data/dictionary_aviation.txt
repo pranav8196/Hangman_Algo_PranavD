@@ -1,0 +1,938 @@
+air india
+airbus
+akasa air
+boeing
+bombardier
+cessna
+dassault
+embraer
+indigo
+spicejet
+vistara
+aai
+bengaluru
+bhatia
+chennai
+delhi
+dgca
+dynamic pricing
+fast forward
+flexi fare
+gangwal
+gurgaon
+hyderabad
+in-flight catering
+indigo stretch
+inflight entertainment
+interglobe
+kolkata
+legroom
+meals on wheels
+mumbai
+price
+scindia
+six e rewards
+tiffin
+window flap
+acmi lease
+adverse yaw
+aerodynamics
+affordable fares
+aileron
+air cargo
+air hostess
+air miles
+air seva
+air suvidha
+air traffic management
+air worthiness
+airfoil
+airframe
+airports authority
+airports authority of india
+airside
+altimeter
+anomaly detection
+approach
+arabian sea
+arrival hall
+atc
+autothrottle
+automated check-in
+auxiliary power unit
+avionics
+baggage
+baggage allowance
+bay of bengal
+beacon
+belagavi
+belly cargo
+bengaluru
+bhatia
+bhopal
+bilateral agreement
+bill of lading
+black box
+block time
+blue livery
+bonded warehouse
+boarding
+boarding pass
+budget airline
+bulkhead
+bureau of civil aviation security
+cabin
+cabin crew
+cabin pressure
+canard
+canopy
+captain
+cargo hold
+carousel
+cessna
+chandigarh
+chassis
+check in
+check-in
+chhatrapati shivaji maharaj international airport
+chocks
+civil aviation
+civil aviation ministry
+clear air turbulence
+climb
+climb profile
+cockpit voice recorder
+cockpits
+codeshare
+coimbatore
+cold chain
+concourse
+connecting flight
+control
+control tower
+control zone
+contrail
+conveyor belt
+corrosion inspection
+crew pairing
+crew roster
+crew scheduling
+crosswind
+customs
+customs brokerage
+dangerous goods
+data-driven
+database
+debriefing
+deicing
+delay code
+delhi
+demurrage
+departure
+departure gate
+descent
+descent profile
+dgca compliance
+dihedral
+dihedral effect
+direct flight
+dirigible
+dispatch reliability
+ditching
+domestic market
+door
+drag
+dunnage
+duty free
+duty time
+e-boarding
+e-ticket
+emergency exit
+emergency landing
+empennage
+engine
+engine borescope inspection
+engine thrust
+excess baggage
+fatigue monitoring
+fifth freedom
+final approach
+final call
+fins
+firewall
+first officer
+flaps
+flare
+fleet
+flight data recorder
+flight deck
+flight director
+flight engineer
+flight manual
+flight plan
+flight schedule
+flight time limitations
+flight-attendant
+floatplane
+fly by wire
+frequent flyer
+frequent flyer program
+fuel burn
+fuel consumption
+fuel tankering
+fuel-tank
+fuselage
+galley
+gangwal
+gate assignment
+gear position
+glider
+glideslope
+go around
+go first
+ground effect
+ground handling
+ground proximity warning
+ground speed
+ground staff
+ground-crew
+gurgaon
+gyroscope
+hangar
+hangarage
+hangars
+hangfire
+hassle free
+headwind
+holding
+holding pattern
+hub
+hubli
+hydraulic system check
+hyderabad
+hypersonic
+hypoxia
+icing conditions
+ils
+immigration
+in flight service
+in-flight entertainment
+instrument flight rules
+instrument landing system
+interglobe
+intermodal
+international expansion
+itinerary
+jabalpur
+jaipur
+jet bridge
+jet engine
+jet fuel
+jet stream
+jetlag
+jetliner
+jetwash
+jodhpur
+kannur
+kanpur
+kempegowda international airport
+kochi
+kolkata
+last mile
+lavatory
+layover
+layover period
+lean clean flying machine
+leh
+lessor
+letter of intent
+lift
+line maintenance
+load factor
+logbook
+low cost
+low cost carrier
+lucknow
+mach number
+madurai
+maintenance
+manifest
+market share
+marshalling
+mayday call
+mel
+metadata
+microburst
+minimum equipment list
+minimums
+missed approach
+modeling
+monocoque
+monsoon
+mumbai
+mysuru
+nacelle
+nagpur
+navigator
+neo
+netaji subhas chandra bose international airport
+network planning
+no frills
+non stop flight
+nondirectional beacon
+nose-gear
+on time
+on time performance
+overrun
+pan pan
+passenger
+passenger load
+passport
+patna
+pawan hans
+performance metrics
+perishables
+pilot
+pitch
+pitch angle
+pitot tube
+point to point
+port blair
+post flight service
+powerplant maintenance
+prayagraj
+pre booking
+pre flight check
+pre-flight briefing
+propeller
+pune
+purser
+pushback
+pylon
+query
+quick access recorder
+radar
+raipur
+rajiv gandhi international airport
+ramp
+ranchi
+real-time
+red eye
+revenue
+rib
+roll
+roll angle
+round trip
+round trip ticket
+route network
+rudder
+runway
+runway condition
+safety
+seasonal demand
+security check
+security screening
+seaplane
+seat selection
+shipper
+shirdi
+slipstream
+slot
+slotting
+soaring
+spoilers
+spin
+squawk
+squawk code
+stabilizer
+stacking
+stall
+steward
+stewardess
+stopover
+supersonic
+supply chain
+sustainable aviation fuel
+tail fin
+tail number
+tail strike
+tailplane
+takeoff
+tarmac
+taxi time
+taxiway
+terminal
+terrain awareness
+throttle
+thrust reverser
+tiruchirappalli
+touchdown
+tower
+trainer
+transonic
+transponder
+trim tab
+triplane
+turbulence
+turnaround
+udaipur
+udan scheme
+undercarriage
+unit load device
+vadodara
+vande bharat
+varanasi
+variometer
+vertical speed
+vertical takeoff
+visakhapatnam
+visual approach
+visual flight rules
+vor
+vortex generator
+wake turbulence
+waypoint
+weather
+weather forecast
+web checkin
+wet lease
+wind shear
+wind speed
+window seat
+windows
+windsock
+winglet
+wings
+yaw rate
+yield
+yield management
+yoke
+
+Aviation Dictionary Terms
+a-check
+aboard
+accelerometer
+acmi lease
+adcock
+aero
+aerodrome
+aerodromes
+aerodynamic
+aerodynamically
+aeronaut
+aeronautical
+aeronautics
+aeroplane
+aerosol
+aerosols
+aerospace
+aerostat
+aerostatics
+afterburner
+afterburners
+airborne
+aircraft logbook
+aircraft maintenance program
+aircraft on ground
+aircrew
+airfield
+airfields
+airflow
+airloc
+airman
+airmanship
+airmass
+airmasses
+airmen
+airmet
+airmets
+airnet
+airplane
+airplanes
+airscrew
+airstrip
+airtight
+airway
+airways
+airworthi
+airworthiness
+airworthy
+airshed
+altimetry
+ammeter
+ammeters
+anaerobic
+anemometer
+anemometers
+annunciator
+antipropeller
+aog
+approaches
+arinc
+artcc
+astatine
+autoflight
+autogyro
+autoland
+autorotation
+avgas
+avionic
+b-check
+barograph
+barographs
+barometer
+barometers
+base maintenance
+biplane
+bistatic
+blowing
+boards
+borescope
+boxbeam
+brakes
+breadboard
+bulkheads
+c-check
+calibration check
+calorimeter
+camber
+cambered
+carburetor
+carburetors
+ceilometer
+centimeter
+centimeters
+certificate of release to service
+chords
+circumnavigating
+clinometer
+cogwheel
+component maintenance
+component replacement
+compliance check
+condition monitoring
+cogwheel
+cowl
+cowling
+cowlings
+crystalline
+cumulonimbus
+d-check
+daily check
+dair
+decameter
+decelerometer
+decimeter
+deface
+deice
+deicer
+deferred defect
+detents
+diameter
+diameters
+disparate
+disturb
+disturbance
+disturbances
+disturbed
+disturbing
+downdraft
+downdrafts
+drawing
+drawings
+dynamometer
+dye penetrant inspection
+eddy current testing
+electrostatic
+electrostatics
+elevators
+enav
+engine overhaul
+engine run-up
+faired
+fairing
+fairings
+fairlead
+fairly
+fault isolation
+fiberboard
+flaperon
+flaperons
+flight test
+flightpath
+flightplanning
+flights
+flowing
+flowmeter
+fluoroscope
+flywheel
+freewheeling
+functional check
+furrowing
+fuselages
+galvanometer
+gearbox
+gearboxes
+geared
+gearing
+geographic
+glidepath
+glides
+glowing
+goniometer
+graphic
+graphics
+graphite
+graphitized
+graphs
+ground test
+growing
+gyro
+gyrocompass
+gyrocopter
+gyrodyne
+gyroplane
+gyroplanes
+gyros
+gyroscopic
+hair
+hairline
+hairs
+hairspring
+hangar maintenance
+hardboard
+heavy maintenance visit
+heli
+heliarc
+helical
+helically
+helicoil
+helicop
+helicopter
+helicopters
+helipad
+heliport
+heliports
+helium
+helix
+hourmeter
+hover
+hydraulic
+hydraulics
+hydrometeor
+hydrometer
+hydrostatic
+hygrometer
+hygrothermometer
+ignition
+ignitions
+impaired
+impairing
+improper
+improperly
+inappropriate
+inboard
+inclinometer
+inertial
+inflowing
+inspection check
+installa
+installation
+installations
+installed
+installing
+interstate
+intrastate
+isopropyl
+isostatic
+jets
+kerosene
+keyboard
+kilometer
+kilometers
+knowing
+landing gear overhaul
+landings
+life limited parts
+line station
+lnav
+loadmeter
+logbook entry
+longeron
+longerons
+lrnav
+machmeter
+magneto
+magnetometer
+magnetos
+maintenance control
+maintenance manual
+maintenance planning
+maintenance record
+maintenance release
+maintenance repair overhaul
+manifold
+manifolds
+manometer
+master
+megohmmeter
+metered
+metering
+meters
+microammeter
+microammeters
+microbarograph
+micrometer
+microscope
+milliameter
+milliammeter
+milliammeters
+millimeter
+millimeters
+millivoltmeter
+mixture
+mixtures
+monopropellant
+monospar
+mro
+multimeter
+multimeters
+multispar
+nacelles
+nanovoltmeter
+narrowing
+navaid
+navaids
+naval
+naviga
+navigable
+navigate
+navigates
+navigating
+navigational
+navigations
+navmn
+navy
+nde
+ndt
+nomograph
+non-destructive testing
+nondestructive examination
+nonrepairable
+nonturbulent
+nosewheel
+nozzle
+nozzles
+odometer
+ohmmeter
+ometers
+onboard
+ornavigation
+orographic
+orthographic
+oscillograph
+oscilloscope
+out of service
+outboard
+overboard
+overhaul shop
+oxygen
+pair
+paired
+pairs
+paragraph
+paragraphs
+parameter
+parameters
+parts replacement
+perimeter
+photograph
+photographic
+photography
+photometer
+potentiometer
+potentiometers
+pre-flight inspection
+preflight
+preventive maintenance
+prop
+propagation
+propane
+propel
+propellant
+propelled
+propellers
+propelling
+propels
+propensity
+proper
+properly
+properties
+property
+propjet
+proportion
+proportional
+proportionate
+proportioned
+proportions
+proposal
+proposed
+proprietary
+proprietor
+propulsion
+propulsive
+propulsors
+propwash
+psychrometer
+pylons
+pyrometer
+radars
+radiography
+radome
+radomes
+ramp
+ramps
+ratiometer
+recrystallization
+recrystallizes
+renewing
+repair
+repaired
+repairing
+repairman
+repairs
+return to service
+rheostat
+rheostats
+rnav
+rotorcraft
+rudders
+ruddervator
+routine check
+runways
+scheduled downtime
+scheduled maintenance
+scheduled servicing
+scleroscope
+scopes
+screwing
+service bulletin
+service check
+service check flight
+serviceability
+sewing
+shearing
+shears
+shocks
+showing
+slowing
+spacecraft
+sparking
+sparks
+spectrometer
+spoiler
+spoilers
+stairs
+stalled
+stalling
+stalls
+starboard
+statcoulomb
+stated
+statements
+static
+stating
+stations
+statistic
+stator
+stators
+status
+statute
+stick
+strobe
+stroboscope
+structural inspection
+strut
+struts
+supercharger
+surge
+swing
+swinging
+swings
+synchroscope
+syndrome
+systems check
+tachometer
+taildragger
+tailwheel
+tech log
+technical log
+telautograph
+telegraph
+telegraphing
+telemetering
+telescope
+telescopes
+tensiometer
+thermoammeter
+thermograph
+thermometer
+thermometers
+thermostat
+thermostatic
+throttles
+throwing
+tiometer
+tnav
+topographic
+torquemeter
+towing
+transmissometer
+transit check
+troubleshooting
+turbed
+turbine
+turbines
+turbo
+turbocharged
+turbocharger
+turbocharging
+turbocompound
+turbofans
+turbojet
+turbopropeller
+turboprops
+turboshaft
+turbosuperchargers
+turbu
+turbulent
+ultrasonic inspection
+unairworthy
+unavoidable
+underwing
+undisturbed
+unmetered
+unscheduled maintenance
+unscheduled repair
+valves
+viewing
+viscosimeter
+vnav
+voltammeter
+voltmeter
+vortices
+wattmeter
+weekly check
+wheelbarrow
+wheeled
+wheels
+wing
+wingless
+wingman
+wings
+wingspan
+wingtip
+wingtips
+work order
+x-ray inspection
+yawing
